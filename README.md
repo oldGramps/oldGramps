@@ -2,7 +2,7 @@
 
 **Entrepreneur · Technical Founder · Software Developer · AI & Automation Developer**
 
-I'm **Muhammad Taham Alvi**, also known as **oldGramps** on GitHub. I'm an entrepreneur, technical founder and software developer from **Pakistan**, focused on building e-commerce technology, business automation, management systems, AI-assisted workflows and scalable software products.
+I'm **Muhammad Taham Alvi**. I'm an entrepreneur, technical founder and software developer from **Pakistan**, focused on building e-commerce technology, business automation, management systems, AI-assisted workflows and scalable software products.
 
 My work primarily revolves around the **PERN stack**, e-commerce infrastructure, operational software, automation and AI-powered development.
 
